@@ -69,6 +69,7 @@ import { ScrollDirective } from './shared/scroll.directive';
 import { ImportFollowDialog } from './circles/import-follow-dialog/import-follow-dialog';
 import { ProfileHeaderComponent } from './shared/profile-header/profile-header.component';
 import { AddRelayDialog } from './shared/add-relay-dialog/add-relay-dialog';
+import { ChatComponent } from './chat/chat.component';
 
 @NgModule({
   declarations: [
@@ -103,6 +104,7 @@ import { AddRelayDialog } from './shared/add-relay-dialog/add-relay-dialog';
     ImportFollowDialog,
     ProfileHeaderComponent,
     AddRelayDialog,
+    ChatComponent
   ],
   imports: [
     BrowserModule,
