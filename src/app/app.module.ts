@@ -163,7 +163,7 @@ import { QueueComponent } from './queue/queue';
     ChatItemComponent,
     ChatListComponent,
     MessageBubbleComponent,
-    StatusComponent
+    StatusComponent,
     ContentMusicComponent,
     MediaPlayerComponent,
     DateComponent,
